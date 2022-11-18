@@ -10,6 +10,8 @@ This dataset you received contains information on over 800+ fashion products. Th
 
 ## The solution is in the Siemens_homework.ipynb
 
+### Data file is Fashion Retail.csv
+
 ##### In the file requirements.txt there are requirements for running the code
 
 ##### File AI_homework_explanation.html and AI_homework_explanation.pdf - have all code with explanations
