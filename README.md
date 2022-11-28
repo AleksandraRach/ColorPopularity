@@ -25,11 +25,13 @@ To predict the popularity of a product based on its price and color and category
 
 As you can see, the results did not show high accuracy. I would settle for linear regression, but to improve accuracy, an increase in the number of observed data is needed (for better balancing by colors and rating)
 
-##### The solution is in the Siemens_homework.ipynb
+##### The organised solution is in the Siemens_homework.ipynb
 
 ##### Data file is Fashion Retail.csv
 
 ##### In the file requirements.txt there are requirements for running the code
 
-##### File AI_homework_explanation.html and AI_homework_explanation.pdf - have all code with explanations
+##### File AI_homework_explanation.ipynb, AI_homework_explanation.html and AI_homework_explanation.pdf - have all code with explanations and logical reasoning
+
+
 
