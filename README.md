@@ -1,4 +1,4 @@
-# Siemens_HomeWork
+# HomeWork
 Code Task for Data Analytic position
 This dataset you received contains information on over 800+ fashion products. The data includes fields such as product ID, identifier , selling_price,  original_price, currency, availability, color, category, breadcrumbs, country,language, average_rating,reviews_count.
 
